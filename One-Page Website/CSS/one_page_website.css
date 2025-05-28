@@ -1,0 +1,15 @@
+p {
+    font-family:cursive;
+    font-size: xx-large;
+}
+
+input {
+    width: fit-content;
+    margin: auto;
+    border: 6px 6px 6px 6px;
+    border-radius: 0px;
+}
+
+.navbar-pad {
+    padding-bottom: 20px;
+}
